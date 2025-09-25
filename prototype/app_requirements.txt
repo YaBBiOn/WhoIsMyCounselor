@@ -1,0 +1,6 @@
+transformers==4.53.0
+tokenizers>=0.20.0,<0.21
+huggingface_hub>=0.24.6
+safetensors>=0.4.5
+accelerate>=0.33
+torch==2.3.*

@@ -14,13 +14,14 @@
 │   │   └── __init__.py
 │   └── ui/             # 사용자 인터페이스
 │       └── __init__.py
+├── etc/                # readme 작성에 사용된 이미지 모음
 └── readme.md           # 프로젝트 소개 문서
 
 ```
 
 ## 프로토타입 작동 영상
-(이곳에 프로토타입 이미지가 들어갈 예정입니다.)  
-(이곳에 링크가 들어갈 예정입니다.)  
+![ver.0 실행 이미지](etc/ver0.png)
+- [ver.0 작동 영상 확인하기.](https://youtu.be/SUAoHR83eFk)
 
 ## 관련 문서
 - [프로토타입 앱 작동 설명서](prototype/app_readme.md)
